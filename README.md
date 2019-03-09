@@ -1,3 +1,5 @@
+> This is a fork of https://github.com/ReactTraining/react-media
+
 # react-media [![Travis][build-badge]][build] [![npm package][npm-badge]][npm]
 
 [build-badge]: https://img.shields.io/travis/ReactTraining/react-media/master.svg?style=flat-square
